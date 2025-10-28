@@ -1,0 +1,30 @@
+[
+    {
+        "p_name" : "infinix",
+        "p_price" : "100000",
+        "p_image" : "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bW9iaWxlJTIwcGhvbmV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=500"
+},
+
+
+
+    {
+        "p_name" : "Realme",
+        "p_price" : "100000",
+        "p_image" : "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bW9iaWxlJTIwcGhvbmV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=500"
+},
+
+
+
+    {
+        "p_name" : "infinix",
+        "p_price" : "100000",
+        "p_image" : "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bW9iaWxlJTIwcGhvbmV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=500"
+},
+
+
+    {
+        "p_name" : "iphone",
+        "p_price" : "100000",
+        "p_image" : "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bW9iaWxlJTIwcGhvbmV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=500"
+}
+]
