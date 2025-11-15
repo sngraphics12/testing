@@ -1,33 +1,47 @@
 [
     {   
         "id" : 1,
-        "p_name" : "infinix",
-        "p_price" : "100000",
-        "p_image" : "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bW9iaWxlJTIwcGhvbmV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=500"
+        "name" : "infinix 60i ",
+        "price" : "100000",
+        "image" : "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bW9iaWxlJTIwcGhvbmV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=500"
 },
 
 
 
     {   
         "id" : 2,
-        "p_name" : "Realme",
-        "p_price" : "100000",
-        "p_image" : "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bW9iaWxlJTIwcGhvbmV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=500"
+        "name" : "iphone 15 pro max ",
+        "price" : "100000",
+        "image" : "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bW9iaWxlJTIwcGhvbmV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=500"
 },
 
 
 
     {   
         "id" : 3,
-        "p_name" : "infinix",
-        "p_price" : "100000",
-        "p_image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU2E-YW2S5ibf73Ksy5njkGE6lt-9roN258w&s"
+        "name" : "Infinix hot 8",
+        "price" : "100000",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU2E-YW2S5ibf73Ksy5njkGE6lt-9roN258w&s"
 },
 
 
-    {
-        "p_name" : "iphone",
-        "p_price" : "100000",
-        "p_image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxPqAddzXIhCxkcpjuZZm88aU7OfzRkJzHxA&s"
+    {    "id" : 4,
+        "name" : "iphone pro 14",
+        "price" : "100000",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxPqAddzXIhCxkcpjuZZm88aU7OfzRkJzHxA&s"
+},
+
+
+{    "id" : 5,
+        "name" : "infinix Note 50 pro",
+        "price" : "100000",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxPqAddzXIhCxkcpjuZZm88aU7OfzRkJzHxA&s"
+},
+
+{    "id" : 6,
+        "name" : "realme",
+        "price" : "100000",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxPqAddzXIhCxkcpjuZZm88aU7OfzRkJzHxA&s"
 }
+
 ]
